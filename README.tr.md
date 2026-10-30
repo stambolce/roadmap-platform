@@ -2,11 +2,11 @@
 
 # Roadmap
 
-**Geri bildirimleri görünür bir yöne dönüştürün.**
-
 [Македонски](README.mk.md) · [English](README.md) · [Shqip](README.sq.md) · [Türkçe](README.tr.md)
 
-<img src="assets/product-hero.svg" width="100%" alt="Roadmap — Product feedback; kavramsal çizim" />
+<img src="assets/product-hero.svg" width="100%" alt="Roadmap — ürün görsel sunumu" />
+
+**Geri bildirimleri görünür bir yöne dönüştürün.**
 
 [![Website](https://img.shields.io/badge/roadmap.mk-Official_Website-1476e8?style=for-the-badge)](https://roadmap.mk/)
 [![Explore](https://img.shields.io/badge/Explore-Platform-14223c?style=for-the-badge)](https://roadmap.mk/)
@@ -69,7 +69,7 @@ Roadmap geri bildirimlere görünür bir devamlılık sağlar. Oylama ilgiyi gö
 | Ayrıntı | Değer |
 |---|---|
 | Web sitesi | [roadmap.mk](https://roadmap.mk/) |
-| Kategori | Product feedback |
+| Kategori | Müşteri geri bildirimi ve ürün yol haritası |
 | Durum | LIVE |
 | Geliştirici | [PROCESS IN](https://processin.mk) |
 | Portföy iletişimi | [contact@processin.mk](mailto:contact@processin.mk) |
@@ -93,5 +93,4 @@ Sunum kaynakları: [1](https://roadmap.mk/).
 
 ---
 
-This platform is a digital product of <a href="https://processin.mk" target="_blank">PROCESS IN</a> · Your Enterprise Software & AI Partner · <br />
-Hosted on Enterprise Infrastructure by <a href="https://inhost.mk" target="_blank">INHOST</a> ·
+This platform is a digital product of <a href="https://processin.mk" target="_blank" >PROCESS IN </a>· Your Enterprise Software & AI Partner · <br />Hosted on Enterprise Infrastructure by <a href="https://inhost.mk" target="_blank">INHOST</a>·
